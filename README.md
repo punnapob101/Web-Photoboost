@@ -1,8 +1,8 @@
 # 📸 Web Photo Booth (Cute Blue Theme) 💎❄️
 
-ยินดีต้อนรับสู่โปรเจ็กต์ **Web Photo Booth**! แอปพลิเคชันถ่ายรูปติดบัตร 4 ช็อตสุดน่ารักทำงานผ่านเว็บเบราว์เซอร์ ที่ได้รับการปรับแต่งธีมให้เป็นสีฟ้าพาสเทลสดใส (Sky Blue Theme) สไตล์การ์ตูนผู้หญิง 💙✨
+ยินดีต้อนรับสู่โปรเจ็กต์ **Web Photo Booth**! แอปพลิเคชันถ่ายรูปติดบัตร 4 ช็อตสุดน่ารักทำงานผ่านเว็บเบราว์เซอร์ ที่ได้รับการปรับแต่งธีมให้เป็นสีฟ้าพาสเทลสดใส (Sky Blue Theme)💙✨
 
-Welcome to the **Web Photo Booth** project! A super cute, browser-based 4-shot photo booth application featuring a pastel sky blue theme with a cute cartoon girl aesthetic. 💙✨
+Welcome to the **Web Photo Booth** project! A cute 4-shot ID photo application that works through a web browser. The theme has been customized to a bright pastel blue (Sky Blue Theme)💙✨
 
 ---
 
@@ -45,4 +45,6 @@ Welcome to the **Web Photo Booth** project! A super cute, browser-based 4-shot p
 
 **สนุกกับการถ่ายรูปชิคๆ แบบตู้สติกเกอร์สีฟ้าคิ้วท์ๆ กันนะครับ! 💎🦋✨**  
 **Enjoy taking cool photos with this cute blue sticker booth! 💎🦋✨**
+
+
 
