@@ -2,7 +2,7 @@
 
 A modern, browser-based 4-shot photo booth application featuring a clean sky blue theme and a minimalist, high-performance UI.
 
-**🔗 Live Demo:** [Insert Link Here]
+**🔗 Live Demo:** [https://web-photoboost.vercel.app/](https://web-photoboost.vercel.app/)
 
 ## 🛠️ Features
 
