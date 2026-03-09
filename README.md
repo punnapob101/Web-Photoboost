@@ -43,5 +43,6 @@ Welcome to the **Web Photo Booth** project! A super cute, browser-based 4-shot p
 
 ---
 
-**สนุกกับการถ่ายรูปชิคๆ แบบตู้สติกเกอร์สีฟ้าคิ้วท์ๆ กันนะคะ! 💎🦋✨**  
+**สนุกกับการถ่ายรูปชิคๆ แบบตู้สติกเกอร์สีฟ้าคิ้วท์ๆ กันนะครับ! 💎🦋✨**  
 **Enjoy taking cool photos with this cute blue sticker booth! 💎🦋✨**
+
